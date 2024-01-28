@@ -1,0 +1,39 @@
+section  {background-color: blue; max-block-size: 300;}
+#box1 {
+    text-size-adjust: 40px;
+    padding: 10px;
+    background-color: rgb(142, 142, 183);
+    display: inline-block;
+    width: 625px;
+}
+#box2 {
+    padding: 10px 10px 10px 10px;
+    background-color: blue;
+    display: inline-block;
+    width: 300px;
+}
+#box3 {
+    padding: 10px 10px 10px 10px;
+    background-color: blue;
+    display: inline-block;
+    width: 300px;
+}
+#box4 {
+    border: 2px;
+    padding: 10px 10px 10px 10px;
+    background-color: rgb(142, 142, 183);
+    display: inline-block;
+    width: 625px;
+}
+#box5 {
+    padding: 10px 10px 10px 10px;
+    background-color: blue;
+    display: inline-block;
+    width: 300px;
+}
+#box6 {
+    padding: 10px 10px 10px 10px;
+    background-color: blue;
+    display: inline-block;
+    width: 300px;
+}
